@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
+   version="1.1"
+   id="svg13493"
+   sodipodi:docname="0009_logo_Caramel_Macchiato.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\satos\inkscape\0009_logo_Caramel_Macchiato.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs13487" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ebffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="223.56809"
+     inkscape:cy="267.13774"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="725"
+     inkscape:window-height="405"
+     inkscape:window-x="592"
+     inkscape:window-y="553"
+     inkscape:window-maximized="0"
+     objecttolerance="1"
+     guidetolerance="2"
+     gridtolerance="1" />
+  <metadata
+     id="metadata13490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-192)">
+    <path
+       id="path14064"
+       style="fill:none;stroke:#c87137;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.390053,248.62216 2.445721,-4.46298 m -5.445617,-2.33861 1.606398,13.51264 m -6.156358,-9.61072 9.995577,-1.56331"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path14078"
+       style="fill:none;stroke:#c87137;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 60.734439,238.69555 10.772323,-1.32292 m 0.361763,9.66411 3.153511,-4.73027 -8.445178,12.66777 M 59.173897,244.15051 74.8884,242.30648"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path14080"
+       style="fill:none;stroke:#c87137;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 23.623512,240.23988 12.634525,-2.04645 m -6.775894,-3.71769 2.645833,21.16666 m -2.645833,-21.16666 2.645833,21.16666 M 23.6828,245.05908 37.860503,242.54687"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="path14083"
+       style="fill:none;stroke:#c87137;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.257715,254.81035 c 1.069078,-0.80181 11.49259,-16.97161 11.49259,-16.97161 m -5.964563,3.26501 1.897073,11.22464"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#c87137;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.075629,258.81547 H 123.30623"
+       id="path14085"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path14087"
+       style="fill:none;stroke:#c87137;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.03566,237.03694 2.93997,11.89349 -4.40995,6.01356 m 5.15263,-18.19645 3.84855,17.95943 m 0,0 5.29167,-7.9375"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14093"
+       d="M 20.508664,231.03422 H 122.73927"
+       style="fill:none;stroke:#d38d5f;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
